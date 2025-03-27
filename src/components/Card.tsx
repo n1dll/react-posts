@@ -1,5 +1,4 @@
 import type { Post } from "../api/posts";
-
 interface CardProps {
   post: Post;
 }
